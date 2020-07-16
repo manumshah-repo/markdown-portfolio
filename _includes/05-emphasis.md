@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+I'm a **Software Engineer** and have the _following skills_
+
+### Data Engineering
+ - **Hadoop 2.X Framework**
+ - **Spark**
+ - **Hive**
+ - **Pig**
+ - **PL/SQL**
+
+### Cloud Novice
